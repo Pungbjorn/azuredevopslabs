@@ -254,7 +254,7 @@ description: Learn how you can implement modern DevOps practices with Azure, Azu
                                                 <li class="osslist"> <img src="/images/php.png" height="42" class="icon-bor-p-m" /><a
                                                         href="/labs/vstsextend/PHP/" class="fon-size-13"> Setting up a CI/CD pipeline for your PHP application</a></li>
                                                 <li class="osslist"> <img src="/images/nodejs-42.png" height="42" class="icon-bor-p-m" /><a
-                                                        href="/labs/vsts/nodejs/" class="fon-size-13">Configure CI/CD for Node application with Azure Pipelines</a> </li>
+                                                        href="/labs/vstsextend/nodejs/" class="fon-size-13">Configure CI/CD for Node application with Azure Pipelines</a> </li>
                                                 <!-- <li class="osslist"> <img src="/images/azure-42.png" height="42" class="icon-bor-p-m" /><a
                                                         href="/labs/vstsextend/devopsprojectforjava/" class="fon-size-13">
                                                         Azure DevOps Project for Java</a></li> -->
